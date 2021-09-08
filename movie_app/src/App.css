@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+#potato {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #eff3f7;
+}
+
+.loader {
+  background-color: #eff3f7;
+  margin-top: 450px;
+  font-size: 40px;
+}
