@@ -4,9 +4,6 @@
 
 #potato {
   height: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   background-color: #eff3f7;
 }
 
